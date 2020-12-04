@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi 👋
 
-- 🌱 I’m currently learning:
+I'm the official developer account of Serendipity S.r.l.
+
+- 🌱 We are currently learning:
   - "Machine Learning" topics
   
-- 🔭 I’m currently working on:
+- 🔭 We are currently working on:
   - Maven build tool
-    - Atlassian JIRA, AzureDevOps
+    - Atlassian JIRA, Microsoft AzureDevOps
   - Enterprise Search
   - Deep Learning
 
