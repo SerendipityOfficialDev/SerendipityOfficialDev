@@ -4,7 +4,8 @@
   - "Machine Learning" topics
   
 - 🔭 I’m currently working on:
-  - Maven build tools 
+  - Maven build tool
+    - Atlassian JIRA, AzureDevOps
   - Enterprise Search
   - Deep Learning
 
