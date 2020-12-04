@@ -2,7 +2,7 @@
 
 ### Hi 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/SerendigityInfo.svg?style=social)](https://twitter.com/SerendigityInfo)
 
-I'm the official developer account of Serendipity S.r.l.
+I'm the official developer account of [Serendipity S.r.l. organization](https://github.com/serendipity-projects)
 
 - 🌱 We are currently learning:
   - "Machine Learning" topics
