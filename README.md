@@ -1,3 +1,5 @@
+![Logo](images/banner.jpg)
+
 ### Hi 👋
 
 I'm the official developer account of Serendipity S.r.l.
