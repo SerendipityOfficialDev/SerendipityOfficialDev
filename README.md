@@ -1,4 +1,4 @@
-![Logo](images/banner.jpg)
+![Logo](logo.jpg)
 
 ### Hi 👋
 
