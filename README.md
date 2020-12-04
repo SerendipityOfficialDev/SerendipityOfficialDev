@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning:
+  - "Machine Learning" topic
+  
+- 🔭 I’m currently working on:
+  - Maven build tools 
+  - Deep Learning
+  - Enterprise Search 
+
 <!--
 **SerendipityOfficialDev/SerendipityOfficialDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
