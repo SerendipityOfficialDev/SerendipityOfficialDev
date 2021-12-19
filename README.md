@@ -12,6 +12,7 @@ I'm the official developer account of [Serendipity S.r.l. organization](https://
     - Atlassian JIRA, Microsoft AzureDevOps
   - Enterprise Search
   - Deep Learning
+  - Innovative Desktop Search tool: [SmartFinder](https://www.microsoft.com/store/apps/9PD0BCV3WKD1)
 
 🟠 See our [Open Source projects](https://github.com/serendipity-projects) 
 
